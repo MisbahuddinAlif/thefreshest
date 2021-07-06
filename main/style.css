@@ -1,0 +1,260 @@
+body{
+    margin: 0;
+    background-color: rgba(220, 220, 220, 0.267);
+}
+.firstsection{
+    display: flex;
+    background-image: url(gadaf-frame.jpg);
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    
+}
+.gadaf{
+    width: 50%;
+}
+.gadaf img{
+    width: 70%;
+    margin-left: 140px;
+    margin-top: 100px;
+    margin-bottom: 125px;
+    
+}
+.heading1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 195px;
+}
+.heading2{
+    font-family: 'Bebas Neue', cursive;
+    color:red;
+    font-size: 35px;
+}
+.heading3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 190px;
+}
+.heading4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 115px;  
+}
+.gadaftalk{
+font-size: 16px;
+margin-left: 40px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-align: justify;
+}
+.diet{
+    font-family: 'Bebas Neue', cursive;
+    color:red;
+    font-size: 35px;
+}
+.calculator{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px solid;
+    background-image:linear-gradient(red,tomato);
+}
+
+
+
+
+
+.secondsection{
+    display: flex;
+    background-image: url(tahsin-frame.jpg);
+    background-size: 1300px;
+    
+}
+.secondsection img{
+    width: 75%;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.tahsin{
+    width: 50%;
+}
+.tahsin1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    
+}
+.tahsin2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 450;
+    text-align: justify;
+    margin-right: 30px;
+    
+}
+.tahsinid{
+    text-decoration: none;
+    color: black;
+    background-image:linear-gradient(violet,purple);
+    padding: 10px 10px solid;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+
+
+
+
+.lastsection{
+    display: flex;
+    background-image: url(lime.jpg);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    
+    
+    
+
+}
+.lastsection img{
+    width:65%;
+    margin-left: 120px;
+    margin-top: 130px;
+}
+.moba{
+    width: 50%;
+    margin-left: 40px;
+}
+.moba1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color: black;
+
+}
+.mobasid{
+    color:darkblue;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.mobastalk{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.lastheading{
+font-size: 40px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: darkcyan;
+padding: 10px;
+text-align: center;
+
+}
+.lastheading2{
+font-family: cursive;
+text-align: center;
+}
+.but{
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+
+.thelastone{
+    display: flex;
+    margin-bottom: 200px;
+    
+    
+}
+
+.sadafbottom img{
+width: 100%;
+border-radius: 3%;
+
+
+}
+
+.tahsinbottom img{
+    width: 100%;
+    
+    border-radius: 3%;
+    
+    
+}
+
+.mobabottom img{
+    width: 100%;
+   
+    border-radius: 3%;
+    
+    
+}
+
+.sadafbottom{
+    width: 35%;
+    padding-left: 170px;
+    padding: 10px;
+    margin: 10px 10px;
+    margin-left: 210px;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px gray;
+    
+    
+    
+}
+
+
+.tahsinbottom{
+    box-shadow:5px 5px 10px gray;
+    width: 35%;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px 10px;
+    margin-right: 250px;
+}
+
+
+.mobabottom{
+    box-shadow:5px 5px 10px gray;
+    width: 35%;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px 10px;
+    margin-right: 50px;
+}
+
+
+.kotha{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    
+}
+
+.thelegends{
+    font-size: 30px;
+    color: maroon;
+}
+
+
+
+.khaddo{
+    color: orange;
+    
+}
+.net{
+    color: white;
+    
+}
+
+.fot{
+    color: white;
+}
+
+.end{
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    text-align: center
+}
+footer{
+    background-color: black;
+    padding-bottom: 30px;
+}
