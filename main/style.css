@@ -244,17 +244,16 @@ border-radius: 3%;
     
 }
 
-.fot{
-    color: white;
+.fut{
+    color: black;
 }
 
 .end{
     bottom: 0;
     background-color: black;
     width: 100%;
-    text-align: center
+    text-align: center;
 }
-footer{
-    background-color: black;
-    padding-bottom: 30px;
+.fot{
+    color: white;
 }
